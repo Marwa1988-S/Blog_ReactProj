@@ -1,0 +1,212 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    },
+    {
+      "id": 2,
+      "username": "marwa",
+      "password": "1234"
+    },
+    {
+      "id": 3,
+      "username": "lana",
+      "password": "1234"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 3,
+      "title": "Das Lama",
+      "content": "Er hörte leise Schritte hinter sich. Das bedeutete nichts Gutes. Wer würde ihm schon folgen, spät in der Nacht und dazu noch in dieser engen Gasse mitten im übel beleumundeten Hafenviertel? \\n  Gerade jetzt, wo er das Ding seines Lebens gedreht hatte und mit der Beute verschwinden wollte!  Hatte einer seiner zahllosen Kollegen dieselbe Idee gehabt, ihn beobachtet und abgewartet, um ihn nun um die Früchte seiner Arbeit zu erleichtern? Oder gehörten die Schritte hinter ihm zu einem der unzähligen Gesetzeshüter dieser Stadt, und die stählerne Acht um seine Handgelenke würde gleich zuschnappen? Er konnte die Aufforderung stehen zu bleiben schon",
+      "image": "",
+      "date": "2017-08-24 14:37:07",
+      "cat": 4,
+      "user_id": 2
+    },
+    {
+      "title": "Hello world",
+      "content": "Eine wunderbare Heiterkeit hat meine ganze Seele eingenommen, gleich den süßen Frühlingsmorgen, die ich mit ganzem Herzen genieße.\n\nIch bin allein und freue mich meines Lebens in dieser Gegend, die für solche Seelen geschaffen ist wie die meine. Ich bin so glücklich, mein Bester, so ganz in dem Gefühle von ruhigem Dasein versunken, daß meine Kunst darunter leidet.",
+      "image": "uploads/3o91jb8eyn2_pumpkin-soup-4508015_640.jpg",
+      "date": "4-5-2021",
+      "cat": 2,
+      "user_id": 1,
+      "id": 4
+    },
+    {
+      "title": "Tennis",
+      "content": "Auch gibt es niemanden, der den Schmerz an sich liebt, sucht oder wünscht, nur, weil er Schmerz ist, es sei denn, es kommt zu zufälligen Umständen, in denen Mühen und Schmerz ihm große Freude bereiten können.\n\nUm ein triviales Beispiel zu nehmen, wer von uns unterzieht sich je anstrengender körperlicher Betätigung, außer um Vorteile daraus zu ziehen?",
+      "image": "",
+      "date": "4-5-2021 15:42",
+      "cat": 2,
+      "user_id": 1,
+      "id": 5
+    },
+    {
+      "title": "ggg",
+      "content": "sss wdsds\nsdddf\n\nssdfgdnm,rerth",
+      "image": "",
+      "date": "4-5-2021 15:51",
+      "cat": 4,
+      "user_id": 1,
+      "id": 6
+    },
+    {
+      "title": "Hinter den Wortbergen",
+      "content": "Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.\n\nAbgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.",
+      "image": "",
+      "date": "5-5-2021 12:19",
+      "cat": 1,
+      "user_id": 1,
+      "id": 7
+    },
+    {
+      "title": "Hinter den Wortbergen 2",
+      "content": "Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.\n\nAbgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.",
+      "image": "",
+      "date": "5-5-2021 12:22",
+      "cat": 1,
+      "user_id": 1,
+      "id": 8
+    },
+    {
+      "title": "fffff",
+      "content": "ffdfdef\nopopo",
+      "image": "",
+      "date": "6-5-2021 8:40",
+      "cat": 3,
+      "user_id": 1,
+      "id": 9
+    },
+    {
+      "title": "vvvv",
+      "content": "add fd th ghjzhgjhj",
+      "image": "uploads/3o91jb8eyn2_pumpkin-soup-4508015_640.jpg",
+      "date": "6-5-2021 15:26",
+      "cat": 3,
+      "user_id": 1,
+      "id": 10
+    },
+    {
+      "title": "Lebensmittel",
+      "content": "Überall dieselbe alte Leier.\n\nDas Layout ist fertig, der Text lässt auf sich warten.\n\nDamit das Layout nun nicht nackt im Raume steht und sich klein und leer vorkommt, springe ich ein: der Blindtext.\n\nGenau zu diesem Zwecke erschaffen, immer im Schatten meines großen Bruders »Lorem Ipsum«, freue ich mich jedes Mal, wenn Sie ein paar Zeilen lesen.",
+      "image": "uploads/g55mcb9u0fj_salad-5904093_640.jpg",
+      "date": "6-5-2021 16:46",
+      "cat": 3,
+      "user_id": 1,
+      "id": 11
+    },
+    {
+      "title": "Pangramm",
+      "content": "Zwei flinke Boxer jagen die quirlige Eva und ihren Mops durch Sylt.\n\nFranz jagt im komplett verwahrlosten Taxi quer durch Bayern.\n\nZwölf Boxkämpfer jagen Viktor quer über den großen Sylter Deich.\n\nVogel Quax zwickt Johnys Pferd Bim.",
+      "image": "uploads/q58502kq8l_dinosaur-5995333_640.png",
+      "date": "7-5-2021 8:31",
+      "cat": 6,
+      "user_id": 1,
+      "id": 12
+    },
+    {
+      "title": "Kafka ",
+      "content": "»Wie ein Hund!\n\n« sagte er, es war, als sollte die Scham ihn überleben.  ",
+      "image": "uploads/nrlril06z4_cherry-blossom-6068004_640.jpg",
+      "date": "7-5-2021 8:38",
+      "cat": 4,
+      "user_id": 1,
+      "id": 13
+    },
+    {
+      "title": "dddd",
+      "content": "ddddd",
+      "image": "uploads/gdacyg7211_dinosaur-5995333_640.png",
+      "date": "7-5-2021 9:18",
+      "cat": 2,
+      "user_id": 1,
+      "id": 14
+    },
+    {
+      "title": "ccccc",
+      "content": "sdfsdfdfd",
+      "image": "uploads/hoigkem9t36_salad-5904093_640.jpg",
+      "date": "7-5-2021 9:21",
+      "cat": 1,
+      "user_id": 1,
+      "id": 15
+    },
+    {
+      "title": "Hello",
+      "content": "Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien leben die Blindtexte.\n\nAbgeschieden wohnen sie in Buchstabhausen an der Küste des Semantik, eines großen Sprachozeans.",
+      "image": "uploads/w6bnw4rs2x_bird-6062768_640.jpg",
+      "date": "7-5-2021 10:21",
+      "cat": 2,
+      "user_id": 1,
+      "id": 16
+    },
+    {
+      "title": "ffffffffffff",
+      "content": "Ein kleines Bächlein namens Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien.\n\nEs ist ein paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.",
+      "image": "uploads/7rj9jdi10ym_dragonfly-6036958_640.jpg",
+      "date": "7-5-2021 10:54",
+      "cat": 2,
+      "user_id": 1,
+      "id": 17
+    },
+    {
+      "title": "trztzuzuizMarwa",
+      "content": "grFGGFHZHSRF\ndghfzJFGJRt\nFJDGJKGjv",
+      "image": "uploads/rq8ko63688p_river-219972_640.jpg",
+      "date": "18-10-2021 21:57",
+      "cat": 9,
+      "user_id": 2,
+      "id": 18
+    },
+    {
+      "title": "sport",
+      "content": "ssssss ffff lääällm läökö-\nöäälä",
+      "image": "uploads/5doqsju5rah_Pinguine.jpg",
+      "date": "30-11-2021 12:52",
+      "cat": 2,
+      "user_id": 1,
+      "id": 19
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Lifestyle"
+    },
+    {
+      "id": 2,
+      "name": "Sport"
+    },
+    {
+      "id": 3,
+      "name": "Food"
+    },
+    {
+      "id": 4,
+      "name": "Kinder"
+    },
+    {
+      "name": "it",
+      "id": 5
+    },
+    {
+      "name": "Wirtschaft",
+      "id": 6
+    },
+    {
+      "name": "Haushalt",
+      "id": 8
+    },
+    {
+      "name": "wetter",
+      "id": 9
+    },
+    {
+      "name": "Hallo",
+      "id": 10
+    }
+  ]
+}

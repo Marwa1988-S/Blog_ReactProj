@@ -1,0 +1,7 @@
+Das Projekt Verzeichnis soll in xampp\htdocs\ gelegt werden, damit Bilder hochladen (on the Server) richtig funktioniert.
+Zum ausführen: in Visual Studio Code 2 Terminal öffenen
+1: npx json-server --watch src/assets/data.json --port 3010
+2: npm start
+
+zum einloggen :  username: admin,
+                 password: admin
