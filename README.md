@@ -1,3 +1,30 @@
+Installation
+
+1- git clone https://github.com/Marwa1988-S/Blog_ReactProj.git
+
+2- cd Blog_ReactProj
+
+3-  
+  - npm install
+
+  - npm install react-router-dom
+   
+  - npm install axios
+   
+  - npm install react-redux 
+   
+  - npm install redux
+   
+  - npm install redux-thunk
+   
+  - npm install -g json-server
+
+4- npm start
+
+5- npx json-server --watch src/assets/data.json --port 3010 (in other terminal)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
