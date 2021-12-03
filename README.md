@@ -1,3 +1,10 @@
+Blog Website where a blog is added , read Blogs of other users , make filter on it by category .  
+
+Blogs are saved in json file
+
+
+# Getting Started
+
 Installation
 
 1- git clone https://github.com/Marwa1988-S/Blog_ReactProj.git
@@ -23,9 +30,6 @@ Installation
 
 5- npx json-server --watch src/assets/data.json --port 3010 (in other terminal)
 
-
-
-# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
