@@ -7,6 +7,8 @@ Blogs are saved in json file
 
 Installation
 
+(The project directory should be placed in xampp\htdocs\  so that uploading images (on the server) works properly)
+
 1- git clone https://github.com/Marwa1988-S/Blog_ReactProj.git
 
 2- cd Blog_ReactProj
@@ -32,6 +34,8 @@ Installation
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
